@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # About Me
-=======
-<span style="color:blue">About Me</span>
->>>>>>> 27f01c9f2cdf040e1ca85ae8e7b841fd4c4ab53e
 
 👋 Hi guys, I'm Hoàng Công Dũng. Just call me Jess.
 
