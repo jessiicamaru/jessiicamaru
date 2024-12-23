@@ -1,4 +1,4 @@
-# <span style="color:rgb(29, 109, 230)">About Me</span>
+# About Me
 
 👋 Hi guys, I'm Hoàng Công Dũng. Just call me Jess.
 
@@ -8,31 +8,29 @@
 
 ✨ <b>Web developer | 🇻🇳</b> ✨
 
-<section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
 <img src="./img/image.png" alt="" style="width: 20px; margin-right: 8px"/> 
-<a href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
-</section>
+<a style="line-height: 1.5" href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
+<br />
+<br />
 
-<section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
 <img src="./img/image copy.png" alt="" style="width: 20px; margin-right: 8px"/> 
-<a href="#">Dandrew2407@gmail.com</a>
-</section>
+<a style="line-height: 1.5" href="#">Dandrew2407@gmail.com</a>
+<br />
+<br />
 
-<section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
 <img src="./img/image copy 3.png" alt="" style="width: 20px; margin-right: 8px"/> 
-<a href="https://www.facebook.com/dunghoang24/">Dũng Hoàng</a>
-</section>
+<a style="line-height: 1.5" href="https://www.facebook.com/dunghoang24/">Dũng Hoàng</a>
+<br />
+<br />
 
-<section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
 <img src="./img/image copy 4.png" alt="" style="width: 20px; margin-right: 8px"/> 
-<a href="https://www.instagram.com/_dung.24_/">_dung.24_</a>
-</section>
+<a style="line-height: 1.5" href="https://www.instagram.com/_dung.24_/">_dung.24_</a>
+<br />
+<br />
 
-<section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
 <img src="./img/image copy 18.png" alt="" style="width: 20px; margin-right: 8px"/> 
-<a href="https://www.tiktok.com/@jessiicamaru">Jessiicamaru</a>
-</section>
-
+<a style="line-height: 1.5" href="https://www.tiktok.com/@jessiicamaru">Jessiicamaru</a>
+<br />
 <br />
 
 💻 I'm a full-stack developer passionate about building beautiful, functional web applications.
@@ -41,7 +39,7 @@
 
 <br />
 
-# <span style="color:rgb(29, 109, 230)">Skills</span>
+# Skills
 
 <section style="margin-top: 10px; width: 100%; display: flex; flex-wrap: wrap; align-items:center; height:60px; height: auto; row-gap: 10px">
 <img src="./img/image copy 6.png" alt="" style="width: 50px; margin-right: 8px"/>
@@ -71,13 +69,14 @@
 
 <br />
 
+# Addional
+
 <details>
-    <summary style="font-size: 28px; font-weight:600"><span style="color:rgb(29, 109, 230)">Hobby</span></summary>
   <ul>
     <li>
     <section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
         <img src="./img/image copy 5.png" alt="" style="width: 20px; margin-right: 8px"/> 
-        <a href="https://tracker.gg/valorant">Valorant Tracker:</a> &nbsp; &nbsp;Quýt#2407
+        <a href="https://tracker.gg/valorant">Valorant Tracker:</a> &nbsp;Quýt#2407
     </section>
     </li>
     <li>
