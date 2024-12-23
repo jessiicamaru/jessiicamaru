@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<img src="./img/image copy 4.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="https://www.instagram.com/_dung.24_/">\_dung.24\  _</a>
+<img src="./img/image copy 4.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="https://www.instagram.com/_dung.24_/">\_dung.24_</a>
 <br />
 <br />
 
