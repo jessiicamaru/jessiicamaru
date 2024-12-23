@@ -39,7 +39,7 @@
 <section style="margin-top: 10px; width: 100%; display: flex; flex-wrap: wrap; align-items:center; height:60px; height: auto; row-gap: 10px">
 <img src="./img/image copy 6.png" alt="" style="width: 50px; margin-right: 8px"/>
 
-<img src="./img/image copy 7.png" alt="" style="width: 60px; margin-right: 8px"/>
+<img src="./img/image copy 7.png" alt="" style="width: 50px; margin-right: 8px"/>
 
 <img src="./img/image copy 8.png" alt="" style="width: 50px; margin-right: 8px"/>
 
