@@ -74,12 +74,14 @@
         <a href="https://tracker.gg/valorant">Valorant Tracker:</a> &nbsp;Quýt#2407
     </section>
     </li>
+    <br />
     <li>
     <section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
         <img src="./img/image copy 19.png" alt="" style="width: 20px; margin-right: 8px"/> 
         <a href="https://open.spotify.com/playlist/4C8zZb5zZGjF7Zf5DMu2XN?si=f5e27f72cc594867">Spotify</a>
     </section>
     </li>
+    <br />
     <li>
     <section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
         <img src="./img/image copy 20.png" alt="" style="width: 20px; margin-right: 8px"/> 
