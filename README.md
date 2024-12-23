@@ -64,7 +64,7 @@
 
 <br />
 
-# Addional
+# Additional
 
 <details>
   <ul>
