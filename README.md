@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # About Me
+=======
+<span style="color:blue">About Me</span>
+>>>>>>> 27f01c9f2cdf040e1ca85ae8e7b841fd4c4ab53e
 
 👋 Hi guys, I'm Hoàng Công Dũng. Just call me Jess.
 
@@ -35,7 +39,7 @@
 
 💻 I'm a full-stack developer passionate about building beautiful, functional web applications.
 
-✨ Visit my repository and don't be hesitate when you figure out any problems. Appreciate all the supports ❤️
+✨ Visit my repository and don't be hesitate when you figure out any problems. Appreciate all the support ❤️
 
 <br />
 
@@ -85,8 +89,7 @@
         <a href="https://open.spotify.com/playlist/4C8zZb5zZGjF7Zf5DMu2XN?si=f5e27f72cc594867">Spotify</a>
     </section>
     </li>
-
-<li>
+    <li>
     <section style="margin-top: 10px; width: 100%; display: flex; align-items:center;">
         <img src="./img/image copy 20.png" alt="" style="width: 20px; margin-right: 8px"/> 
         <a href="https://soundcloud.com/jessiicamaru/sets/nhon">Soundcloud</a>
