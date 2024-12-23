@@ -8,23 +8,23 @@
 
 ✨ <b>Web developer | 🇻🇳</b> ✨
 
-<img src="./img/image.png" alt="" style="width: 20px; margin-right: 8px;"/> <a style="line-height: 1.5; display: inline-block" href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
+<img src="./img/image.png" alt="" style="width: 20px; margin-right: 8px;"/> &nbsp; <a style="line-height: 1.5; display: inline-block" href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
 <br />
 <br />
 
-<img src="./img/image copy.png" alt="" style="width: 20px; margin-right: 8px"/> <a style="line-height: 1.5" href="#">Dandrew2407@gmail.com</a>
+<img src="./img/image copy.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="#">Dandrew2407@gmail.com</a>
 <br />
 <br />
 
-<img src="./img/image copy 3.png" alt="" style="width: 20px; margin-right: 8px"/> <a style="line-height: 1.5" href="https://www.facebook.com/dunghoang24/">Dũng Hoàng</a>
+<img src="./img/image copy 3.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="https://www.facebook.com/dunghoang24/">Dũng Hoàng</a>
 <br />
 <br />
 
-<img src="./img/image copy 4.png" alt="" style="width: 20px; margin-right: 8px"/> <a style="line-height: 1.5" href="https://www.instagram.com/_dung.24_/">_dung.24_</a>
+<img src="./img/image copy 4.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="https://www.instagram.com/_dung.24_/">_dung.24_</a>
 <br />
 <br />
 
-<img src="./img/image copy 18.png" alt="" style="width: 20px; margin-right: 8px"/> <a style="line-height: 1.5" href="https://www.tiktok.com/@jessiicamaru">Jessiicamaru</a>
+<img src="./img/image copy 18.png" alt="" style="width: 20px; margin-right: 8px"/> &nbsp; <a style="line-height: 1.5" href="https://www.tiktok.com/@jessiicamaru">Jessiicamaru</a>
 <br />
 <br />
 
