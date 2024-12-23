@@ -8,8 +8,8 @@
 
 ✨ <b>Web developer | 🇻🇳</b> ✨
 
-<img src="./img/image.png" alt="" style="width: 20px; margin-right: 8px; display: inline-block"/> 
-<a style="line-height: 1.5" href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
+<img src="./img/image.png" alt="" style="width: 20px; margin-right: 8px;"/> 
+<a style="line-height: 1.5; display: inline-block" href="https://www.linkedin.com/in/d%C5%A9ng-ho%C3%A0ng-3b07b2282/">LinkedIn</a>
 <br />
 <br />
 
